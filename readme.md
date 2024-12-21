@@ -1,4 +1,3 @@
-```markdown
 # 📚 **E-Book to Course Content Generator**
 
 Transform e-books into professional course content with this powerful tool! This project lets you upload e-books (in PDF format), process them to generate slide decks (PPT) along with transcripts, and even perform additional tasks like deleting specific pages from PDFs.
@@ -107,4 +106,3 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests f
 ---
 
 Enjoy turning your e-books into impactful presentations! 🎉
-```
